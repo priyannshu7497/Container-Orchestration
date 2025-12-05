@@ -137,7 +137,7 @@ NodePort	Makes application accessible externally
 
 ✅ 2️⃣ Docker Image Build Screenshot
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/backend%20Screenshot/10.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/backend%20Screenshot/10.png" width="600">) 
 
 Command:
 
