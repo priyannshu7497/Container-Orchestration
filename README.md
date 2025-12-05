@@ -149,15 +149,15 @@ docker build -t learner-frontend .
 
 ✅ 3️⃣ Docker Images List
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/frontend%20Screenshot/7.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/frontend%20Screenshot/7.png" width="600">) 
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/backend%20Screenshot/2.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/backend%20Screenshot/2.png" width="600">) 
 
 Command:
 
 docker images
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/backend%20Screenshot/4.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/backend%20Screenshot/4.png" width="600">) 
 
 
 👉 Screenshot name: docker_images_list.png
@@ -165,14 +165,14 @@ docker images
 
 ✅ 4️⃣ Kubernetes Node Running Screenshot
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/backend%20Screenshot/11.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/backend%20Screenshot/11.png" width="600">) 
 
 
 Command:
 
 kubectl get nodes
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/backend%20Screenshot/13.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/backend%20Screenshot/13.png" width="600">) 
 
 👉 Screenshot name: kubectl_node_ready.png
 📌 Proof: Kubernetes cluster active.
@@ -185,14 +185,14 @@ Command:
 
 kubectl apply -f deployment.yaml
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/backend%20Screenshot/13.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/backend%20Screenshot/13.png" width="600">) 
 
 👉 Screenshot name: deployment_created.png
 📌 Proof: Deployment created without issues.
 
 ✅ 6️⃣ Pods Running Screenshot
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/backend%20Screenshot/13.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/backend%20Screenshot/13.png" width="600">) 
 
 Command:
 
@@ -207,9 +207,9 @@ kubectl get pods
 
 Open in browser:
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/backend%20Screenshot/5.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/backend%20Screenshot/5.png" width="600">) 
 
-(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/blob/main/frontend%20Screenshot/3.png" width="600">) 
+(<img src="https://raw.githubusercontent.com/priyannshu7497/Container-Orchestration/main/frontend%20Screenshot/3.png" width="600">) 
 
 Example:
 ➡️ http://localhost:30007
