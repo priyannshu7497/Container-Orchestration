@@ -79,7 +79,7 @@ Graded Assignment on Container Orchestration/
 
 ## 🏗️ Architecture Diagram
 
-```mermaid
+```
 flowchart TD
     User --> Browser --> NodePortService --> Pod1[Frontend Pod]
     NodePortService --> Pod2[Frontend Pod]
